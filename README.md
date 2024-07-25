@@ -1,4 +1,4 @@
-[![header](./banner.png)](https://dispersal.net)
+
 
 # Hello, World! Im Andrew 👋
 
