@@ -34,15 +34,6 @@ Im a **Application Developer** who loves to bring ideas to life.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CSDevelope&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
   </p>
 </div>
-
-### <p align="center">⚙️ My development environment </p>
-
->  I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://ohmyposh.dev/" target="_blank">Oh-My-Posh</a> for my terminal.
-
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
-  <tr>
-  <td valign="top" width="50%">
   
   #### 🖥️ Windows Power User
   
