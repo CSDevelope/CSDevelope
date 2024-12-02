@@ -4,7 +4,7 @@
 
 <div class="github-introduction">
 
-Im a **Application Developer** who loves to bring ideas to life. 
+
 
 </div>
 
