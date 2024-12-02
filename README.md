@@ -8,7 +8,7 @@
 
 </div>
 
-- 💼 Got a freelance gig? Hit me up via <a href="mailto:support@dispersal.net">email.</a>
+- 💼 Got a freelance gig? Hit me up via <a href="mailto:freshened@pronton.me">email.</a>
 - 💬 Curious? Just ask!
 
 <div class="badges-intro">
