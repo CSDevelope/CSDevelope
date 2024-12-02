@@ -30,8 +30,8 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CSDevelope&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="CSDevlope Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CSDevelope&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=freshened&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Freshened Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=freshened&theme=tokyonight&hide_border=true" alt="Freshened's Streak" height="165">
   </p>
 </div>
   
